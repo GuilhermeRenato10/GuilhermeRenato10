@@ -8,13 +8,13 @@
 
 ## 🤖 AI & Automation
 - **[Solar Plant Analysis Assistant](https://github.com/GuilhermeRenato10/solar-ai-assistant)** – LLM agent with tool use that investigates generation losses (downtime, communication failures, soiling) and answers in natural language. The model picks the analyses, Python computes the numbers, so it doesn't hallucinate figures. `Python` `Anthropic API` `Pandas` `Streamlit`
+- **[Power BI/Fabric report export](https://github.com/GuilhermeRenato10/powerbi-report-automation)** – daily Selenium automation that saves 1+ hour of manual work per day.
 - **Management report automation** (in production, private) – authenticates via Azure AD (MSAL/OAuth2), queries the Power BI semantic model through REST API (DAX) and updates dozens of KPIs across multiple plants in Excel.
-- **Power BI/Fabric report export** (in production, private) – daily Selenium automation that saves 1+ hour of manual work per day.
 
 ## 📊 Data & Backend
 - **[Power BI Sales Dashboard](https://github.com/GuilhermeRenato10/dashboard-comercial-powerbi)** – multi-source CSV ingestion, Power Query, dimensional modeling and DAX metrics.
 - **ETL with Azure DevOps API** (internship) – metadata ingestion and PostgreSQL modeling of dependencies between repositories and packages.
-- **[MyContacts API](https://github.com/GuilhermeRenato10/DEV-CRUD-node.js)** – REST CRUD API with Node.js, Express, PostgreSQL and Docker.
+- **[MyContacts API](https://github.com/GuilhermeRenato10/MyContacts)** – REST CRUD API with Node.js, Express, PostgreSQL and Docker.
 
 ---
 
